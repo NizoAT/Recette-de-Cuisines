@@ -256,7 +256,7 @@ class Recette {
       ],
     ),
      Recette(
-      'purée d\'Irio de patate douce',
+      'Purée d\'Irio de Patate Douce',
       'assets/patate douce.jpg',
       6,
       [
