@@ -14,6 +14,7 @@ class RecetteCuisineApp extends StatelessWidget {
     final ThemeData theme = ThemeData();
 
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Recette de plat Africain',
       theme: theme.copyWith(
         colorScheme: theme.colorScheme.copyWith(

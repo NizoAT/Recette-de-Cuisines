@@ -17,8 +17,10 @@ class _RecetteDetailState extends State<DetailRecette> {
 
   @override
   Widget build(BuildContext context) {
+    
     // 1
     return Scaffold(
+      
       appBar: AppBar(
         title: Text(widget.recette.labels),
       ),
